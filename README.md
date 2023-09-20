@@ -7,6 +7,7 @@ After a altercation with the cat the man wake up in a completely different atmos
 CAN YOU ESCAPE HIM!
 
 ## Features
+* Advanced AI that searches for you, hears you, opens doors, searches the room and reacts to traps.
 * Fully functioning inventory with equip, drop and deploy.
 * NightvisionMode to easily navigate through darkplaces.
 * Deployable Catnip trap with used to distract the cat to buy you extra time.
