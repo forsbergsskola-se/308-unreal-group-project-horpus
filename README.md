@@ -7,18 +7,17 @@ After a altercation with the cat the man wake up in a completely different atmos
 CAN YOU ESCAPE HIM!
 
 ## Features
-* Items
-  * Collectables
-    * Backpack
-      * gives you inventory.
-    * Camera  
-      * gives you nightvision to navigate in the dark.
-    * Catnip trap
-      *  used to distract the cat.
-    * Keys
-      * Used to open doors.
-    * Shoes
-      * Equipable to reduce step sounds.  
+* Collectables
+* Backpack
+  * gives you inventory.
+* Camera  
+  * gives you nightvision to navigate in the dark.
+* Catnip trap
+  *  used to distract the cat.
+* Keys
+  * Used to open doors.
+* Shoes
+  * Equipable to reduce step sounds.  
 * Hiding Places
   * Sofa
     * Hide behind sofa when HORPUS is searching for you
