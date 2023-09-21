@@ -6,6 +6,8 @@ He follows his daily tasks and finds a cat blocking his way from going outside. 
 After a altercation with the cat the man wake up in a completely different atmosphere where he has to think, hide, use items, equip items and plan his escape by outsmarting this HORPUS. 
 CAN YOU ESCAPE HIM!
 
+![PussInGarden](https://github.com/forsbergsskola-se/308-unreal-group-project-horpus/assets/112477158/6a06219a-fe3e-4eac-9b3a-b704e669e11a)
+
 ## Features
 * Advanced AI that searches for you, hears you, opens doors, searches the room and reacts to traps.
 * Fully functioning inventory with equip, drop and deploy.
@@ -20,12 +22,17 @@ CAN YOU ESCAPE HIM!
   * Table
 * Rooms
   * 4 rooms, search each one for items to use to your advantage. 
-  
+
 ## Trailer
 
+[Trailer](https://clipchamp.com/watch/yntYzllP63e)
 
 ## Screenshots
 
+![TutorialGif](https://github.com/forsbergsskola-se/308-unreal-group-project-horpus/assets/112477158/69238207-2792-4a35-82c8-6ce7dc80df81)
+![SofaHide](https://github.com/forsbergsskola-se/308-unreal-group-project-horpus/assets/112477158/15a2a6a8-116f-4e69-9d43-e4a2be8ede73)
+![TableHide](https://github.com/forsbergsskola-se/308-unreal-group-project-horpus/assets/112477158/61bf28e7-d336-4ebf-a7b8-25ba8d6203b9)
+![WardrobeHide](https://github.com/forsbergsskola-se/308-unreal-group-project-horpus/assets/112477158/275b288c-1b41-42ab-be51-d41ca586c2a1)
 
 
 ## Feedback and Support
