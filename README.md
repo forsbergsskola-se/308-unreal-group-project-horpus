@@ -39,7 +39,7 @@ CAN YOU ESCAPE HIM!
 
 ## itch.io
 
-[https://horpus.itch.io/horpus](https://horpus.itch.io/horpus)
+[https://nihanbir.itch.io/horpus](https://nihanbir.itch.io/horpus)
 
 ## Feedback and Support
 We encourage players to provide feedback and bug reports to [stebbi.halldors@student.forsbergsskola.se]. </br>
