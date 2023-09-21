@@ -37,6 +37,9 @@ CAN YOU ESCAPE HIM!
 ![UnrealEditor_qSElM8CahD](https://github.com/forsbergsskola-se/308-unreal-group-project-horpus/assets/112477158/62c05c71-2bbe-48db-b743-4398c40ce3c3)
 ![UnrealEditor_bbRtrjCLfZ](https://github.com/forsbergsskola-se/308-unreal-group-project-horpus/assets/112477158/adb3eba9-bc1c-4576-b0db-53cf32148d60)
 
+## itch.io
+
+[https://horpus.itch.io/horpus](https://horpus.itch.io/horpus)
 
 ## Feedback and Support
 We encourage players to provide feedback and bug reports to [stebbi.halldors@student.forsbergsskola.se]. </br>
