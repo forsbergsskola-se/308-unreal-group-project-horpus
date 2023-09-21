@@ -33,6 +33,9 @@ CAN YOU ESCAPE HIM!
 ![SofaHide](https://github.com/forsbergsskola-se/308-unreal-group-project-horpus/assets/112477158/15a2a6a8-116f-4e69-9d43-e4a2be8ede73)
 ![TableHide](https://github.com/forsbergsskola-se/308-unreal-group-project-horpus/assets/112477158/61bf28e7-d336-4ebf-a7b8-25ba8d6203b9)
 ![WardrobeHide](https://github.com/forsbergsskola-se/308-unreal-group-project-horpus/assets/112477158/275b288c-1b41-42ab-be51-d41ca586c2a1)
+![UnrealEditor_rq3nnEDrGg](https://github.com/forsbergsskola-se/308-unreal-group-project-horpus/assets/112477158/6fbaedee-5b60-4950-8b24-1d3829a2d3cf)
+![UnrealEditor_qSElM8CahD](https://github.com/forsbergsskola-se/308-unreal-group-project-horpus/assets/112477158/62c05c71-2bbe-48db-b743-4398c40ce3c3)
+![UnrealEditor_bbRtrjCLfZ](https://github.com/forsbergsskola-se/308-unreal-group-project-horpus/assets/112477158/adb3eba9-bc1c-4576-b0db-53cf32148d60)
 
 
 ## Feedback and Support
